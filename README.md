@@ -22,7 +22,8 @@ The goal of this project is to build a classification model that can analyze new
 - Python  
 - Pandas  
 - Scikit-learn  
-- Streamlit  
+- Streamlit
+  https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 - Natural Language Processing (NLP)
 
 ---
